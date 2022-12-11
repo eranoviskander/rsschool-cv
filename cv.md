@@ -3,7 +3,7 @@
 ## Eranov Iskander
 
 ## Contacts:
-* Discord: ERANOV5445
+* Discord: Iskander#6334
 * E-mail: eranoviskander7@gmail.com 
 * Tel: +7 (927) 676 20 53 
 
