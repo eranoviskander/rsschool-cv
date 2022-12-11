@@ -28,7 +28,7 @@ My name is Eranov Iskander, I am 20 years old. I was born and raised in a sunny 
 
 ## Education and courses:
 1. creating a web server to serve internal lines 
-2. CS50 video courses
+2. CS507 video courses
 3. C++ beginner
 
 
