@@ -1,1 +1,1 @@
-https://eranoviskander.github.io/rsschool-cvv/
+https://eranoviskander.github.io/rsschool-cv/
