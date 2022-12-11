@@ -27,9 +27,12 @@ My name is Eranov Iskander, I am 20 years old. I was born and raised in a sunny 
 
 
 ## Education and courses:
-1. C++ 1 year a stop-holder code 
+1. creating a web server to serve internal lines 
 2. CS50 video courses
 3. C++ beginner
 
 ## Language:
-English level B2
+1. Russian native
+2. English B2
+3. Uzbek native
+4. Kazakh native
