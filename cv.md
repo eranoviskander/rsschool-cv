@@ -27,7 +27,7 @@ My name is Eranov Iskander, I am 20 years old. I was born and raised in a sunny 
 
 
 ## Education and courses:
-1. C# 1 year a stop-holder code 
+1. C++ 1 year a stop-holder code 
 2. CS50 video courses
 3. C++ beginner
 
